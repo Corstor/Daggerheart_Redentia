@@ -41,8 +41,12 @@ Il **Limior** è un continente pieno di boschi, foreste, giungle e paludi. Tra t
 Solo le zone in cui sono presenti i dispositivi di teletrasporto sono visitate dai turisti, principalmente _umani_, in quanto le zone più periferiche non sono andate in contro al processo di civilizzazione avviato dal [**Mane**]() dopo gli eventi del [**Vecchio Mondo**](./README.md#il-vecchio-mondo).
 Non è un continente in cui predominano certe razze su altre, dato che sono tante e molto diversificate tra di loro. Si possono trovare molto comunemente _elfi_, _katari_, _galapa_, _fungril_, _fauni_, _fate_, _goblin_ e _orchi_.
 
-Il **Limior** è composto da 1 sola nazione, [****](), sebbene non copra l'intero territorio dato che non è ancora stato esplorato del tutto.
+Il **Limior** è composto da 1 sola nazione, [**Sylvan**](), sebbene non copra l'intero territorio dato che non è ancora stato esplorato del tutto.
 
 ## Il Vecchio Mondo
+
+## Il Primo Re
+
+---
 
 _Campagna Daggerheart_ **_Made by [CorStor](https://github.com/Corstor)_**
