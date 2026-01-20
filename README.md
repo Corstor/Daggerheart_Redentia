@@ -13,7 +13,7 @@ L'**Aeder** è il continente più a nord e per questo è anche il più freddo. C
 
 I suoi principali abitanti sono i _giganti_, ma esistono anche piccole nazioni di _umani_ e _nani_.
 
-L’Aeder è composta da 4 nazioni, [**Gigantum**](), [**Humanorum**](), [**Nanorum**]() e [**Mirabilis**]().
+L’Aeder è composta da 4 nazioni, [**Gigantum**](./Continenti/Aeder/Gigantum.md), [**Humanorum**](./Continenti/Aeder/Humanorum.md), [**Nanorum**](./Continenti/Aeder/Nanorum.md) e [**Mirabilis**](./Continenti/Aeder/Mirabilis.md).
 
 ## Kontir
 
