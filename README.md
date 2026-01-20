@@ -1,1 +1,5 @@
-Campagna per Daggerheart creata da Corrado
+# Redentia
+
+## Campagna Daggerheart
+
+### Made by [CorStor](https://github.com/Corstor)
