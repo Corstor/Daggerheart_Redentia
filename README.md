@@ -32,7 +32,7 @@ Il **Soltan** è il continente in cui la vita senziente ha iniziato a riprospera
 Il clima è principalmente mite, adatto per qualsiasi forma di vita.
 I principali abitanti del continente sono gli _umani_, i _tiefling_, _drakoniani_, _goblin_ e gli _halfling_.
 
-Il **Soltan** è composto da 2 nazioni, [**Mane**]() e [**Vespera**]().
+Il **Soltan** è composto da 2 nazioni, [**Mane**](./Continenti/Soltan/Mane.md) e [**Vespera**](./Continenti/Soltan/Vespera.md).
 
 ## Limior
 
