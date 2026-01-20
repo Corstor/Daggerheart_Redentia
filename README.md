@@ -23,7 +23,7 @@ Questo passato disastroso e l’assenza di meraviglie naturali, che si ritiene s
 
 I suoi principali abitanti sono gli _umani_, gli _automi_, gli _orchi_, i _firebolg_ e i _goblin_.
 
-Il **Kontir** è composto da 4 nazioni, [**Potestas**](), [**Automaton**](), [**Morsem**]() e [**Kort**]().
+Il **Kontir** è composto da 4 nazioni, [**Potestas**](./Continenti/Kontir/Potestas.md), [**Automaton**](./Continenti/Kontir/Automaton.md), [**Morsem**](./Continenti/Kontir/Morsem.md) e [**Kort**](./Continenti/Kontir/Kort.md).
 
 ## Soltan
 
