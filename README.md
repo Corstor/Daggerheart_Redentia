@@ -27,7 +27,7 @@ Il **Kontir** è composto da 4 nazioni, [**Potestas**](), [**Automaton**](), [**
 
 ## Soltan
 
-Il **Soltan** è il continente in cui la vita ha iniziato a riprosperare dopo gli eventi del [**Vecchio Mondo**](./README.md#il-vecchio-mondo), e per questo è anche il continente più prosperoso e visitato dai turisti.
+Il **Soltan** è il continente in cui la vita senziente ha iniziato a riprosperare dopo gli eventi del [**Vecchio Mondo**](./README.md#il-vecchio-mondo), e per questo è anche il continente più prosperoso e visitato dai turisti.
 
 Il clima è principalmente mite, adatto per qualsiasi forma di vita.
 I principali abitanti del continente sono gli _umani_, i _tiefling_, _drakoniani_, _goblin_ e gli _halfling_.
@@ -36,7 +36,12 @@ Il **Soltan** è composto da 2 nazioni, [**Mane**]() e [**Vespera**]().
 
 ## Limior
 
+Il **Limior** è un continente pieno di boschi, foreste, giungle e paludi. Tra tutti è il continente più neutrale e che cerca di restare fuori dai problemi del resto dei continenti, cosa che sta diventando sempre più difficile per colpa delle pressioni degli _umani_ e degli _automi_.
 
+Solo le zone in cui sono presenti i dispositivi di teletrasporto sono visitate dai turisti, principalmente _umani_, in quanto le zone più periferiche non sono andate in contro al processo di civilizzazione avviato dal [**Mane**]() dopo gli eventi del [**Vecchio Mondo**](./README.md#il-vecchio-mondo).
+Non è un continente in cui predominano certe razze su altre, dato che sono tante e molto diversificate tra di loro. Si possono trovare molto comunemente _elfi_, _katari_, _galapa_, _fungril_, _fauni_, _fate_, _goblin_ e _orchi_.
+
+Il **Limior** è composto da 1 sola nazione, [****](), sebbene non copra l'intero territorio dato che non è ancora stato esplorato del tutto.
 
 ## Il Vecchio Mondo
 
