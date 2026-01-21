@@ -45,7 +45,17 @@ Il **Limior** è composto da 1 sola nazione, [**Sylvan**](), sebbene non copra l
 
 ## Il Vecchio Mondo
 
+Essendo passati quasi 1 milione di anni, ormai non si sa più molto del **Vecchio Mondo**, se non che ci fu un evento di distruzione di massa provocato dal **Lich**, il cui nome si è perso nel tempo.
+Il **Lich** infatti portò la vita presente nel **Vecchio Mondo** sull'orlo dell'estinzione, finchè non venne fermato da **Redemptus**, colui che in seguito venne riconosciuto come il [**Primo Re**](./README.md#il-primo-re).
+
+I motivi dietro la pazzia distruttiva del **Lich** sono tuttora sconosciuti e motivi di studio, così come i poteri necromantici che possedeva, sebbene sia illegale studiare tale magia nella maggior parte delle nazioni di **Redentia**.
+
 ## Il Primo Re
+
+**Redemptus**, conosciuto anche come il **Primo Re**, riuscì a sconfiggere il **Lich**, ponendo fine all'era del **Vecchio Mondo** e portando luce e speranza su quello che in seguito venne chiamato **Redentia** proprio in suo nome.
+
+Ancora oggi nel [**Soltan**](/README.md#soltan) ci sono lotte di potere in cui i nobili rivendicano il titolo come **Vero Erede** di **Redemptus**, ma la verità è che nessuno ha idea di chi possa essere tale erede, nè dove si trovi. In molti pensano si possa trovare nel **Soltan** proprio perchè è il continente dove **Redemptus** diede vita al suo impero, ma dopo così tanto tempo nessuno può sapere con certezza neanche che tale erede esista.
+
 
 ---
 
