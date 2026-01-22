@@ -16,4 +16,6 @@ Sono vietate le leggi che cambiano la gestione politica della nazione, almeno fi
 
 Per il momento **Humanorum** riesce a non sprofondare nella sua politica caotica, probabilmente anche grazie ai suoi pochi abitanti, che preferiscono rimanere nella nazione piuttosto che andare altrove, se non ogni tanto a [**Mirabilis**](./Mirabilis.md).
 
+Nonostante gli abitanti arrivati di recente da [**Potestas**](./../Kontir/Potestas.md), la vita quotidiana dei cittadini non è cambiata e i nuovi arrivati si sono adattati subito, probabilmente anche perchè non erano in tanti.
+
 Non sono presenti dispositivi di teletrasporto ad **Humanorum**.
