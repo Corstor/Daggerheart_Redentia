@@ -1,6 +1,7 @@
 # Nanorum
 
 **_Fondazione_**: anno 2000
+**_Capitale_**: Venguard
 
 Conosciuta anche come **La nazione dei Nani** o **La fortezza inespugnabile**, **Nanorum** è l'unica nazione dei _nani_ presente su [**Redentia**](./../../README.md#redentia).
 

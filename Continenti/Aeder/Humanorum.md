@@ -1,6 +1,7 @@
 # Humanorum
 
 **_Fondazione_**: anno 9900
+**_Capitale_**: nessuna
 
 Conosciuta anche come "**La nazione fredda degli umani**", **Humanorum** è l'unica nazione _umana_ presente nell'[**Aeder**](./Humanorum.md), da qui il suo nome.
 
