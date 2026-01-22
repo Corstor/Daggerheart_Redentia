@@ -35,7 +35,7 @@ Il **Kontir** è composto da 4 nazioni, [**Potestas**](./Continenti/Kontir/Potes
 Il **Soltan** è il continente più grande e anche il continente in cui la vita senziente ha iniziato a riprosperare dopo gli eventi del [**Vecchio Mondo**](./README.md#il-vecchio-mondo), e per questo è anche il continente più prosperoso e visitato dai turisti.
 
 Il clima è principalmente mite, adatto per qualsiasi forma di vita.
-I principali abitanti del continente sono gli _umani_, i _tiefling_, _drakoniani_, _goblin_ e gli _halfling_.
+I principali abitanti del continente sono gli _umani_, i _tiefling_, i _drakoniani_ e gli _halfling_.
 
 Il **Soltan** è composto da 2 nazioni, [**Mane**](./Continenti/Soltan/Mane.md) e [**Vespera**](./Continenti/Soltan/Vespera.md).
 
