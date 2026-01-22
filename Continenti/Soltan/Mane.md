@@ -18,4 +18,4 @@ La gestione politica della nazione è in mano alla casata reale, che si trova ne
 
 Prima della disputa su quale casata fosse quella del **Vero Erede**, nata intorno all'anno 9993, la casata del **Mane** e del [**Vespera**](./Vespera.md) si riunivano insieme per prendere decisioni da applicare ad entrambi i paesi, oltre che al [**Potestas**](./../Kontir/Potestas.md).
 
-Sono presenti due dispositivi di teletrasporto nel paese, uno si trova nella capitale ed è riservato alla casata reale, l'altro si trova in una città vicino all'ingresso della città ad est.
+Sono presenti due dispositivi di teletrasporto nel paese, uno si trova nella capitale ed è riservato alla casata reale, l'altro si trova in una città ad est, vicino la periferia.
