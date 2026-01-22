@@ -1,6 +1,6 @@
 # Mirabilis
 
-**_Fondazione_**: anni 6500
+**_Fondazione_**: anno 6500
 **_Capitale_**: Mira
 
 **Mirabilis** è la meta turistica per eccellenza dell'[**Aeder**](./../../README.md#aeder) ma in generale di tutta [**Redentia**](./../../README.md#redentia).
