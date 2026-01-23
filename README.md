@@ -42,9 +42,10 @@ Il **Soltan** è composto da 2 nazioni, [**Mane**](./Continenti/Soltan/Mane.md) 
 
 ## Limior
 
-Il **Limior** è un continente pieno di boschi, foreste, giungle e paludi. Tra tutti è il continente più neutrale e che cerca di restare fuori dai problemi del resto dei continenti, cosa che sta diventando sempre più difficile per colpa delle pressioni degli _automi_ e degli _umani_, anche se quest'ultimi sono di recente entrati in accordo con gli abitanti del **Limior**.
+Il **Limior** è un continente pieno di boschi, foreste, giungle e paludi. Tra tutti è il continente più neutrale e che cerca di restare fuori dai problemi del resto del mondo, cosa che sta diventando sempre più difficile per colpa delle pressioni degli _automi_ e degli _umani_, anche se quest'ultimi sono di recente entrati in accordo con gli abitanti del **Limior**.
 
 Solo la zone in cui è presente il dispositivo di teletrasporto è visitate dai turisti, principalmente _umani_, in quanto le zone più periferiche non sono andate in contro al processo di civilizzazione avviato dal [**Mane**](./Continenti/Soltan/Mane.md) dopo gli eventi del [**Vecchio Mondo**](./README.md#il-vecchio-mondo).
+
 Non è un continente in cui predominano certe razze su altre, dato che sono tante e molto diversificate tra di loro. Si possono trovare molto comunemente _elfi_, _katari_, _galapa_, _fungril_, _fauni_, _fate_, _goblin_ e _orchi_.
 
 Il **Limior** è composto da 1 sola nazione, [**Sylvan**](./Continenti/Limior/Sylvan.md), sebbene non copra l'intero territorio dato che non è ancora stato esplorato del tutto.
@@ -60,7 +61,7 @@ I motivi dietro la pazzia distruttiva del **Lich** sono tuttora sconosciuti e mo
 
 **Redemptus**, conosciuto anche come il **Primo Re**, riuscì a sconfiggere il **Lich**, ponendo fine all'era del [**Vecchio Mondo**](./README.md#il-vecchio-mondo) e portando luce e speranza su quello che in seguito venne chiamato **Redentia** proprio in suo nome.
 
-Ancora oggi nel [**Soltan**](/README.md#soltan) ci sono lotte di potere in cui i nobili rivendicano il titolo come **Vero Erede** di **Redemptus**, ma la verità è che nessuno ha idea di chi possa essere tale erede, nè dove si trovi. In molti pensano si possa trovare nel [**Soltan**](/README.md#soltan) proprio perchè è il continente dove **Redemptus** diede vita al suo impero, ma dopo così tanto tempo nessuno può sapere con certezza neanche che tale erede esista.
+Ancora oggi nel [**Soltan**](/README.md#soltan) ci sono lotte di potere in cui i nobili rivendicano la propria casata come colei che porterà alla nascita del **Vero Erede** di **Redemptus**, ma la verità è che nessuno ha idea di chi possa essere figlio tale erede.
 
 ---
 
