@@ -14,7 +14,7 @@ Il **Mane** non ha riscontrato particolari difficoltà nell'isolamento, dato che
 
 Il turismo nelle città è ovviamente consentito e consigliato, sebbene i confini (e il teletrasporto) siano chiusi per gli abitanti del [**Vespera**](./Vespera.md), non che essi desiderino visitare la città.
 
-La gestione politica della nazione è in mano alla casata reale, che si trova nella capitale, **Mensil**, anche se il posto di Re è vacante dalla morte del [**Primo Re**](./../../README.md#il-primo-re), avvenuta circa 9000 anni prima. Dato che il posto è vacante, le decisioni politiche sono prese dall'intera casata attraverso una democrazia interna a loro e loro soltanto, nel frattempo sperano tutti che possa nascere un erede nell'anno **10000** per poter succedere alla profezia e governare così sul mondo intero.
+La gestione politica della nazione è in mano alla casata reale, che si trova nella capitale, **Mensil**, anche se il posto di Re è vacante dalla morte del [**Primo Re**](./../../README.md#il-primo-re), avvenuta più di 9000 anni prima. Dato che il posto è vacante, le decisioni politiche sono prese dall'intera casata attraverso una democrazia interna a loro e loro soltanto e nel frattempo tutti sperano che possa nascere un erede nell'anno **10000** per poter succedere alla profezia e governare così sul mondo intero.
 
 Prima della disputa su quale casata fosse quella del **Vero Erede**, nata intorno all'anno 9993, la casata del **Mane** e del [**Vespera**](./Vespera.md) si riunivano insieme per prendere decisioni da applicare ad entrambi i paesi, oltre che al [**Potestas**](./../Kontir/Potestas.md).
 
