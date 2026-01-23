@@ -3,10 +3,11 @@
 **_Anno corrente_**: anno 9999
 
 **Redentia** è un mondo enorme diviso in quattro continenti, ognuno separato dagli altri a causa di strani fenomeni che si verificano nei confini e da un oceano estremamente prodondo infestato da creature mortali come kraken, scheletri, sirene e altre creature di cui non se ne conosce il nome.
-Chi desidera effettuare un viaggio intercontinentale può farlo utilizzando uno dei molteplici dispositivi di teletrasporto presenti nelle più grandi città dei vari continenti, tuttavia l'origine di questi dispositivi è ancora sconosciuta e avvolta dal mistero, con qualche religioso, fanatico o studioso che pensa possa essere stato [**Il Primo Re**](./README.md#il-primo-re) in persona a piazzarli, mentre degli eretici pensano che sia stato addirittura il **Lich** a piazzarli per facilitare il suo piano di distruzione del mondo.
+
+Chi desidera effettuare un viaggio intercontinentale può farlo utilizzando uno dei molteplici dispositivi di teletrasporto presenti nelle più grandi città dei vari continenti, tuttavia l'origine di questi dispositivi è ancora sconosciuta e avvolta dal mistero, con qualche religioso, fanatico o studioso che pensa possa essere stato [**Il Primo Re**](./README.md#il-primo-re) in persona a costruirli, mentre degli eretici pensano che sia stato addirittura il **Lich** stesso a farlo per facilitare il suo piano di distruzione del mondo.
 
 Al momento regna la pace all’interno di **Redentia**, o questo è quello che le nazioni raccontanto. Infatti la guerra che è in corso in questo momento, sebbene non avvenga tramite armi e soldati, sta avvenendo piuttosto con il commercio, rendendo quindi il popolo stesso la principale vittima di questa silenziosa guerra, mentre i ricchi e i potenti non fanno altro che scommettere su quale nazione cadrà per prima.
-La guerra economica tra i continenti è iniziata da 7 anni, ovvero nel 9993.
+La guerra economica tra i continenti è iniziata da 6 anni, ovvero nel 9993.
 
 I quattro continenti sono [**Aeder**](./README.md#aeder), [**Kontir**](./README.md#kontir), [**Soltan**](./README.md#soltan) e [**Limior**](README.md#limior).
 
