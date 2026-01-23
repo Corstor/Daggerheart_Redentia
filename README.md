@@ -15,7 +15,7 @@ I quattro continenti sono [**Aeder**](./README.md#aeder), [**Kontir**](./README.
 
 ## Aeder
 
-L'**Aeder** è il continente più a nord e per questo è anche il più freddo. Caratterizzato principalmente dalle sue montagne e spiaggie innevate, è una meta turistica molto in voga per le razze più resistenti al freddo o che si sanno adattare, come _umani_ e _automi_.
+L'**Aeder** è il continente più a nord e per questo è anche il più freddo. Caratterizzato principalmente dalle sue montagne e spiaggie innevate, è una meta turistica molto in voga per le razze più resistenti al freddo o che si sanno adattare, come _umani_ ed _automi_.
 
 I suoi principali abitanti sono i _giganti_, ma esistono anche piccole nazioni di _umani_, _nani_ ed _automi_.
 
@@ -23,7 +23,7 @@ L’Aeder è composta da 4 nazioni, [**Gigantum**](./Continenti/Aeder/Gigantum.m
 
 ## Kontir
 
-Il **Kontir** è ha clima desertico, ed è conosciuto principalmente per essere la madre patria del **Lich**. Per questo motivo, in tutte le nazioni del continente è severamente proibita la magia necromantica, mentre le altre scuole di magia sono estremamente regolamentate per assicurarsi che un evento catastrofico come quello avvenuto nel [**Vecchio Mondo**](./README.md#il-vecchio-mondo) non si verifichi mai più.
+Il **Kontir** ha un clima desertico, ed è conosciuto principalmente per essere la madre patria del **Lich**. Per questo motivo, in tutte le nazioni del continente è severamente proibita la magia necromantica, mentre le altre scuole di magia sono estremamente regolamentate per assicurarsi che un evento catastrofico come quello avvenuto nel [**Vecchio Mondo**](./README.md#il-vecchio-mondo) non si verifichi mai più.
 
 Questo passato disastroso e l’assenza di meraviglie naturali, che si ritiene siano legate al **Lich**, fanno sì che solo pochi scellerati decidano di visitare il **Kontir** come meta turistica. I visitatori più “comuni” (seppur rari) sono gli _elfi_ e gli _umani_, spesso attirati dalla voglia di scoprire di più sul mito del **Lich**.
 
@@ -33,7 +33,7 @@ Il **Kontir** è composto da 4 nazioni, [**Potestas**](./Continenti/Kontir/Potes
 
 ## Soltan
 
-Il **Soltan** è il continente più grande e anche il continente in cui la vita senziente ha iniziato a riprosperare dopo gli eventi del [**Vecchio Mondo**](./README.md#il-vecchio-mondo), e per questo è anche il continente più prosperoso e visitato dai turisti.
+Il **Soltan** è il continente più grande e anche il continente in cui la vita senziente ha iniziato a riprosperare dopo gli eventi del [**Vecchio Mondo**](./README.md#il-vecchio-mondo), e per questo è anche il continente più "civilizzato" e visitato dai turisti.
 
 Il clima è principalmente mite, adatto per qualsiasi forma di vita.
 I principali abitanti del continente sono gli _umani_, i _tiefling_, i _drakoniani_ e gli _halfling_.
@@ -42,12 +42,12 @@ Il **Soltan** è composto da 2 nazioni, [**Mane**](./Continenti/Soltan/Mane.md) 
 
 ## Limior
 
-Il **Limior** è un continente pieno di boschi, foreste, giungle e paludi. Tra tutti è il continente più neutrale e che cerca di restare fuori dai problemi del resto dei continenti, cosa che sta diventando sempre più difficile per colpa delle pressioni degli _umani_ e degli _automi_.
+Il **Limior** è un continente pieno di boschi, foreste, giungle e paludi. Tra tutti è il continente più neutrale e che cerca di restare fuori dai problemi del resto dei continenti, cosa che sta diventando sempre più difficile per colpa delle pressioni degli _automi_ e degli _umani_, anche se quest'ultimi sono di recente entrati in accordo con gli abitanti del **Limior**.
 
-Solo le zone in cui sono presenti i dispositivi di teletrasporto sono visitate dai turisti, principalmente _umani_, in quanto le zone più periferiche non sono andate in contro al processo di civilizzazione avviato dal [**Mane**]() dopo gli eventi del [**Vecchio Mondo**](./README.md#il-vecchio-mondo).
+Solo la zone in cui è presente il dispositivo di teletrasporto è visitate dai turisti, principalmente _umani_, in quanto le zone più periferiche non sono andate in contro al processo di civilizzazione avviato dal [**Mane**](./Continenti/Soltan/Mane.md) dopo gli eventi del [**Vecchio Mondo**](./README.md#il-vecchio-mondo).
 Non è un continente in cui predominano certe razze su altre, dato che sono tante e molto diversificate tra di loro. Si possono trovare molto comunemente _elfi_, _katari_, _galapa_, _fungril_, _fauni_, _fate_, _goblin_ e _orchi_.
 
-Il **Limior** è composto da 1 sola nazione, [**Sylvan**](), sebbene non copra l'intero territorio dato che non è ancora stato esplorato del tutto.
+Il **Limior** è composto da 1 sola nazione, [**Sylvan**](./Continenti/Limior/Sylvan.md), sebbene non copra l'intero territorio dato che non è ancora stato esplorato del tutto.
 
 ## Il Vecchio Mondo
 
@@ -58,9 +58,9 @@ I motivi dietro la pazzia distruttiva del **Lich** sono tuttora sconosciuti e mo
 
 ## Il Primo Re
 
-**Redemptus**, conosciuto anche come il **Primo Re**, riuscì a sconfiggere il **Lich**, ponendo fine all'era del **Vecchio Mondo** e portando luce e speranza su quello che in seguito venne chiamato **Redentia** proprio in suo nome.
+**Redemptus**, conosciuto anche come il **Primo Re**, riuscì a sconfiggere il **Lich**, ponendo fine all'era del [**Vecchio Mondo**](./README.md#il-vecchio-mondo) e portando luce e speranza su quello che in seguito venne chiamato **Redentia** proprio in suo nome.
 
-Ancora oggi nel [**Soltan**](/README.md#soltan) ci sono lotte di potere in cui i nobili rivendicano il titolo come **Vero Erede** di **Redemptus**, ma la verità è che nessuno ha idea di chi possa essere tale erede, nè dove si trovi. In molti pensano si possa trovare nel **Soltan** proprio perchè è il continente dove **Redemptus** diede vita al suo impero, ma dopo così tanto tempo nessuno può sapere con certezza neanche che tale erede esista.
+Ancora oggi nel [**Soltan**](/README.md#soltan) ci sono lotte di potere in cui i nobili rivendicano il titolo come **Vero Erede** di **Redemptus**, ma la verità è che nessuno ha idea di chi possa essere tale erede, nè dove si trovi. In molti pensano si possa trovare nel [**Soltan**](/README.md#soltan) proprio perchè è il continente dove **Redemptus** diede vita al suo impero, ma dopo così tanto tempo nessuno può sapere con certezza neanche che tale erede esista.
 
 ---
 
