@@ -61,7 +61,7 @@ I motivi dietro la pazzia distruttiva del **Lich** sono tuttora sconosciuti e mo
 
 **Redemptus**, conosciuto anche come il **Primo Re**, riuscì a sconfiggere il **Lich**, ponendo fine all'era del [**Vecchio Mondo**](./README.md#il-vecchio-mondo) e portando luce e speranza su quello che in seguito venne chiamato **Redentia** proprio in suo nome.
 
-Ancora oggi nel [**Soltan**](/README.md#soltan) ci sono lotte di potere in cui i nobili rivendicano la propria casata come colei che porterà alla nascita del **Vero Erede** di **Redemptus**, ma la verità è che nessuno ha idea di chi possa essere figlio tale erede.
+Ancora oggi nel [**Soltan**](/README.md#soltan) ci sono lotte di potere in cui i nobili rivendicano la propria casata come colei che porterà alla nascita del **Vero Erede** di **Redemptus**, ma la verità è che nessuno ha idea chi darà vita a tale erede.
 
 ---
 
