@@ -13,6 +13,7 @@ Si dice che durante la notte di **Luna Rossa**, che avviene ogni 50 anni, un ful
 Se nascono gemelli, i due _goblin_ dovranno lottare arrivati ai 20 anni, chi sopravvive prende il titolo, e il vecchio capo sarà deposto.
 
 Spesso si sono dovuti difendere anche dagli _automi_ oltre che dagli _umani_, ma quando gli _automi_ hanno capito che non possedevano nulla di valore, hanno deciso di lasciarli stare.
-Così, i _goblin_ devono guardarsi solo dagli _umani_ ad est.
+
+Al momento, i _goblin_ devono guardarsi solo dagli _umani_ ad est.
 
 Non è presente alcun dispositivo di teletrasporto.
