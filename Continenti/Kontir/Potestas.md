@@ -13,7 +13,8 @@ Prima di questa guerra infatti era il [**Soltan**](../../README.md#soltan) a ges
 La milizia è salita al potere utilizzando come scusa la sicurezza nazionale, dato che sono circondati da _automi_ a nord, _orchi_ a sud e _goblin_ ad ovest.
 Le città sono costantemente pattugliate da battaglioni dell'esercito, e i confini sono provvisti di trappole per limitare l'accesso esclusivamente agli _umani_ e ai _firebolg_.
 
-Al momento la carriera migliore che si possa sperare di seguire è proprio quella del soldato, partendo da **Soldato semplice** e avendo il ruolo di **Capo-battaglione** come ruolo più alto raggiungibile.
+Al momento la carriera migliore che si possa sperare di seguire è proprio quella del soldato, partendo da **Soldato semplice** fino a raggiungere il ruolo di **Capo Battaglione** nel migliore dei casi.
+
 Per ora non ci sono ancora metodi per gestire il cambiamento dei **Comandanti** dell'esercito, in quanto questo regime è in atto da meno di una decina di anni.
 
 E' stato proprio questo cambio di regime che ha spinto molti cittadini a cambiare nazione, andando perlopiù nell'[**Humanorum**](./../Aeder/Humanorum.md), ma erano comunque pochi in quanto **Potestas** è sempre stata portata per essere una nazione militare piuttosto che commerciale o turistica.
