@@ -1,5 +1,14 @@
 # Redentia
 
+## Indice
+
+- [Aeder](#aeder)
+- [Kontir](#kontir)
+- [Soltan](#soltan)
+- [Limior](#limior)
+- [Il Vecchio Mondo](#il-vecchio-mondo)
+- [Il Primo Re](#il-primo-re)
+
 **_Anno corrente_**: anno 9999
 
 **Redentia** è un mondo enorme diviso in quattro continenti, ognuno separato dagli altri a causa di strani fenomeni che si verificano nei confini e da un oceano estremamente prodondo infestato da creature mortali come kraken, scheletri, sirene e altre creature di cui non se ne conosce il nome.
