@@ -11,6 +11,12 @@
     - [Problema attuale](#problema-attuale-1)
     - [Segreto](#segreto-1)
     - [Quick Reference](#quick-reference-1)
+  - [Greybor, Re dei nani](#greybor-re-dei-nani)
+    - [Descrizione](#descrizione-2)
+    - [Hooks](#hooks-2)
+    - [Problema attuale](#problema-attuale-2)
+    - [Segreto](#segreto-2)
+    - [Quick Reference](#quick-reference-2)
 
 
 # Personaggi
@@ -31,9 +37,9 @@
 
 ### Problema attuale
 
-| Chi/Cosa riguarda | Come prova a risolvero |
-| ----------------- | ---------------------- |
-|                   |                        |
+| Chi/Cosa riguarda | Come prova a risolverlo |
+| ----------------- | ----------------------- |
+|                   |                         |
 
 ### Segreto
 
@@ -61,7 +67,7 @@ _segreto_
 
 ### Problema attuale
 
-| Chi/Cosa riguarda                                                                                | Come prova a risolvero                                                                                                                                                                                                     |
+| Chi/Cosa riguarda                                                                                | Come prova a risolverlo                                                                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Automi che si trovano nel Limior e in generale gli automi ostile verso Sylvan e il Limior intero | Attraverso la sua rete di spie tiene d'occhio i movimenti di Automaton (non riesce a controllare i movimenti interni alla nazione ma solo quelli esterni) e dà la caccia agli automi nel Limior con gli agenti più esperti |
 
@@ -74,3 +80,33 @@ _Possiede un dispositivo di camuffamento che pensa non funzioni contro gli autom
 | 3 parole                              | Modo di parlare          | Si ricorda per                                                                          |
 | ------------------------------------- | ------------------------ | --------------------------------------------------------------------------------------- |
 | Consigliera, Spionaggio, Camuffamento | Sofisticato e minaccioso | Gli occhi gialli, capelli verde scuro, la treccia alla sua sinistra e le freccie incise |
+
+## [Greybor, Re dei nani](./imgs/characters/Greybor.png)
+
+### Descrizione
+
+| Obbiettivi                    | Come li raggiunge                                                           |
+| ----------------------------- | --------------------------------------------------------------------------- |
+| Mantenere la pace su Redentia | Indaga da solo o servendosi di avventurieri ignari della sua reale identità |
+
+### Hooks
+
+| Dettagli                                                                                       | Modo di parlare                                    |
+| ---------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| Ha sempre una pipa con cui fuma, possiede due accette alla cinta e ha barba e capelli ordinati | Molto sicuro di sè, misterioso e con voce profonda |
+
+### Problema attuale
+
+| Chi/Cosa riguarda                                                                         | Come prova a risolverlo                                                                                                                |
+| ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Gli automi sono troppo imprevedibili e il Vespera è in guerra politica con un suo alleato | Tiene d'occhio gli automi attraverso spie non consapevoli e non ha paura del Vespera in quanto hanno già respinto gli umani in passato |
+
+### Segreto
+
+_E' il re dei nani, ma gli piace comunque andare in giro da solo in quanto un forte combattente e ritiene di essere la persona su cui può contare più di tutte._
+
+### Quick Reference
+
+| 3 parole               | Modo di parlare                   | Si ricorda per            |
+| ---------------------- | --------------------------------- | ------------------------- |
+| Nani, Automi, Nascosto | Sicuro, Misterioso, Voce profonda | Pipa, accette, misterioso |
