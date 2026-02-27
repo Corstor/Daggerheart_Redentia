@@ -17,6 +17,12 @@
     - [Problema attuale](#problema-attuale-2)
     - [Segreto](#segreto-2)
     - [Quick Reference](#quick-reference-2)
+  - [Nedyr](#nedyr)
+    - [Descrizione](#descrizione-3)
+    - [Hooks](#hooks-3)
+    - [Problema attuale](#problema-attuale-3)
+    - [Segreto](#segreto-3)
+    - [Quick Reference](#quick-reference-3)
 
 
 # Personaggi
@@ -110,3 +116,33 @@ _E' il re dei nani, ma gli piace comunque andare in giro da solo in quanto un fo
 | 3 parole               | Modo di parlare                   | Si ricorda per            |
 | ---------------------- | --------------------------------- | ------------------------- |
 | Nani, Automi, Nascosto | Sicuro, Misterioso, Voce profonda | Pipa, accette, misterioso |
+
+## Nedyr
+
+### Descrizione
+
+| Obbiettivi      | Come li raggiunge                                    |
+| --------------- | ---------------------------------------------------- |
+| Restare in vita | Non parla con nessuno e tiene sempre la bocca chiusa |
+
+### Hooks
+
+| Dettagli      | Modo di parlare |
+| ------------- | --------------- |
+| Muto, Vecchio | Non parla       |
+
+### Problema attuale
+
+| Chi/Cosa riguarda         | Come prova a risolverlo           |
+| ------------------------- | --------------------------------- |
+| Automi e moglie scomparsa | Non fa nulla in quanto spaventato |
+
+### Segreto
+
+_E' stato torturato da degli automi in passato, rimanendone traumatizzato ora non parla più e non si mette in mostra, così da non attirare l'attenzione su di lui._
+
+### Quick Reference
+
+| 3 parole                  | Modo di parlare | Si ricorda per                                |
+| ------------------------- | --------------- | --------------------------------------------- |
+| Muto, Traumatizzato, Elfo | Non parla       | Non parlare mai, sembre indifferente su tutto |
