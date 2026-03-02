@@ -23,6 +23,12 @@
     - [Problema attuale](#problema-attuale-3)
     - [Segreto](#segreto-3)
     - [Quick Reference](#quick-reference-3)
+  - [Derrick (Oste della locanda "**_Drago selvaggio_**")](#derrick-oste-della-locanda-drago-selvaggio)
+    - [Descrizione](#descrizione-4)
+    - [Hooks](#hooks-4)
+    - [Problema attuale](#problema-attuale-4)
+    - [Segreto](#segreto-4)
+    - [Quick Reference](#quick-reference-4)
 
 
 # Personaggi
@@ -146,3 +152,33 @@ _E' stato torturato da degli automi in passato, rimanendone traumatizzato ora no
 | 3 parole                  | Modo di parlare | Si ricorda per                                |
 | ------------------------- | --------------- | --------------------------------------------- |
 | Muto, Traumatizzato, Elfo | Non parla       | Non parlare mai, sembre indifferente su tutto |
+
+## Derrick (Oste della locanda "**_Drago selvaggio_**")
+
+### Descrizione
+
+| Obbiettivi | Come li raggiunge |
+| ---------- | ----------------- |
+|            |                   |
+
+### Hooks
+
+| Dettagli | Modo di parlare |
+| -------- | --------------- |
+|          |                 |
+
+### Problema attuale
+
+| Chi/Cosa riguarda | Come prova a risolverlo |
+| ----------------- | ----------------------- |
+|                   |                         |
+
+### Segreto
+
+_segreto_
+
+### Quick Reference
+
+| 3 parole | Modo di parlare | Si ricorda per |
+| -------- | --------------- | -------------- |
+|          |                 |                |
