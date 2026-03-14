@@ -2,12 +2,14 @@
 
 ## Indice
 
-- [Aeder](#aeder)
-- [Kontir](#kontir)
-- [Soltan](#soltan)
-- [Limior](#limior)
-- [Il Vecchio Mondo](#il-vecchio-mondo)
-- [Il Primo Re](#il-primo-re)
+- [Redentia](#redentia)
+  - [Indice](#indice)
+  - [Aeder](#aeder)
+  - [Kontir](#kontir)
+  - [Soltan](#soltan)
+  - [Limior](#limior)
+  - [Il Vecchio Mondo](#il-vecchio-mondo)
+  - [Il Primo Re](#il-primo-re)
 
 **_Anno corrente_**: anno 9999
 
@@ -55,7 +57,7 @@ Il **Limior** è un continente pieno di boschi, foreste, giungle e paludi. Tra t
 
 Solo la zone in cui è presente il dispositivo di teletrasporto è visitate dai turisti, principalmente _umani_, in quanto le zone più periferiche non sono andate in contro al processo di civilizzazione avviato dal [**Mane**](./Continenti/Soltan/Mane.md) dopo gli eventi del [**Vecchio Mondo**](./README.md#il-vecchio-mondo).
 
-Non è un continente in cui predominano certe razze su altre, dato che sono tante e molto diversificate tra di loro. Si possono trovare molto comunemente _elfi_, _katari_, _galapa_, _fungril_, _fauni_, _fate_, _goblin_ e _orchi_.
+Non è un continente in cui predominano certe razze su altre, dato che sono tante e molto diversificate tra di loro. Si possono trovare molto comunemente _elfi_, _katari_, _galapa_, _fungril_, _fauni_, _fate_, _ribbet_, _simiah_,  _goblin_ e _orchi_.
 
 Il **Limior** è composto da 1 sola nazione, [**Sylvan**](./Continenti/Limior/Sylvan.md), sebbene non copra l'intero territorio dato che non è ancora stato esplorato del tutto.
 

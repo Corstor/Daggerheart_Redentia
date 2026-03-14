@@ -3,7 +3,7 @@
 **_Fondazione_**: anno 1000
 **_Capitale_**: Sylvan
 
-**Sylvan** è la nazione con più forme diverse di vita di [**Redentia**](./../../README.md#redentia), presentando _elfi_, _katari_, _galapa_, _fungril_, _fauni_ e _fate_.
+**Sylvan** è la nazione con più forme diverse di vita di [**Redentia**](./../../README.md#redentia), presentando _elfi_, _katari_, _galapa_, _fungril_, _fauni_, _fate_, _ribbet_ e _simiah_.
 
 Ci si riferisce spesso ad essa come città-nazione, dato che non sono presenti confini al suo interno, ma solo case e altri edifici.
 
