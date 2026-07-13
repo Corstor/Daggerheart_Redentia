@@ -12,7 +12,7 @@ Ovviamente questo è solo una loro supposizione, in quanto la profezia lasciata 
 Per via di questa disputa, i due paesi hanno chiuso completamente l'esportazione ed importazione di merci tra di loro, dovendosi affidare a fonti esterne.
 Il **Mane** non ha riscontrato particolari difficoltà nell'isolamento, dato che sono riusciti a convincere i loro amici _nani_ a rimanere in rapporti commerciali con loro piuttosto che con i loro vicini.
 
-Il turismo nelle città è ovviamente consentito e consigliato, sebbene i confini (e il teletrasporto) siano chiusi per gli abitanti del [**Vespera**](./Vespera.md), non che essi desiderino visitare la città.
+Il turismo nelle città è ovviamente consentito e consigliato, sebbene i confini (e il teletrasporto) siano chiusi per gli abitanti del [**Vespera**](./Vespera.md), non che essi desiderino visitare la nazione.
 
 La gestione politica della nazione è in mano alla casata reale, che si trova nella capitale, **Mensil**, anche se il posto di Re è vacante dalla morte del [**Primo Re**](./../../README.md#il-primo-re), avvenuta più di 9000 anni prima. Dato che il posto è vacante, le decisioni politiche sono prese dall'intera casata attraverso una democrazia interna a loro e loro soltanto e nel frattempo tutti sperano che possa nascere un erede nell'anno **10000** per poter succedere alla profezia e governare così sul mondo intero.
 
