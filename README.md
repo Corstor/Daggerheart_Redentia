@@ -17,7 +17,7 @@
 
 Chi desidera effettuare un viaggio intercontinentale può farlo utilizzando uno dei molteplici dispositivi di teletrasporto presenti nelle più grandi città dei vari continenti, tuttavia l'origine di questi dispositivi è ancora sconosciuta e avvolta dal mistero, con qualche religioso, fanatico o studioso che pensa possa essere stato [**Il Primo Re**](./README.md#il-primo-re) in persona a costruirli, mentre degli eretici pensano che sia stato addirittura il **Lich** stesso a farlo per facilitare il suo piano di distruzione del mondo.
 
-Al momento regna la pace all’interno di **Redentia**, o questo è quello che le nazioni raccontanto. Infatti la guerra che è in corso in questo momento, sebbene non avvenga tramite armi e soldati, sta avvenendo piuttosto con il commercio, rendendo quindi il popolo stesso la principale vittima di questa silenziosa guerra, mentre i ricchi e i potenti non fanno altro che scommettere su quale nazione cadrà per prima.
+Al momento regna la pace all’interno di **Redentia**, o questo è quello che le nazioni raccontanto. Infatti la guerra che è in corso in questo momento, sebbene non avvenga tramite armi e soldati, sta avvenendo piuttosto con il commercio, rendendo quindi il popolo la principale vittima di questa silenziosa guerra, mentre i ricchi e i potenti non fanno altro che scommettere su quale nazione cadrà per prima.
 La guerra economica tra i continenti è iniziata da 6 anni, ovvero nel 9993.
 
 I quattro continenti sono [**Aeder**](./README.md#aeder), [**Kontir**](./README.md#kontir), [**Soltan**](./README.md#soltan) e [**Limior**](README.md#limior).
@@ -55,7 +55,7 @@ Il **Soltan** è composto da 2 nazioni, [**Mane**](./Continenti/Soltan/Mane.md) 
 
 Il **Limior** è un continente pieno di boschi, foreste, giungle e paludi. Tra tutti è il continente più neutrale e che cerca di restare fuori dai problemi del resto del mondo, cosa che sta diventando sempre più difficile per colpa delle pressioni degli _automi_ e degli _umani_, anche se quest'ultimi sono di recente entrati in accordo con gli abitanti del **Limior**.
 
-Solo la zone in cui è presente il dispositivo di teletrasporto è visitate dai turisti, principalmente _umani_, in quanto le zone più periferiche non sono andate in contro al processo di civilizzazione avviato dal [**Mane**](./Continenti/Soltan/Mane.md) dopo gli eventi del [**Vecchio Mondo**](./README.md#il-vecchio-mondo).
+Solo la zona in cui è presente il dispositivo di teletrasporto è visitata dai turisti, principalmente _umani_, in quanto le zone più periferiche non sono andate in contro al processo di civilizzazione avviato dal [**Mane**](./Continenti/Soltan/Mane.md) dopo gli eventi del [**Vecchio Mondo**](./README.md#il-vecchio-mondo).
 
 Non è un continente in cui predominano certe razze su altre, dato che sono tante e molto diversificate tra di loro. Si possono trovare molto comunemente _elfi_, _katari_, _galapa_, _fungril_, _fauni_, _fate_, _ribbet_, _simiah_,  _goblin_ e _orchi_.
 
@@ -63,7 +63,7 @@ Il **Limior** è composto da 1 sola nazione, [**Sylvan**](./Continenti/Limior/Sy
 
 ## Il Vecchio Mondo
 
-Essendo passati quasi 10 secoli, ormai non si sa più molto del **Vecchio Mondo**, se non che ci fu un evento di distruzione di massa provocato dal **Lich**, il cui nome si è perso nel tempo.
+Essendo passati quasi 100 secoli, ormai non si sa più molto del **Vecchio Mondo**, se non che ci fu un evento di distruzione di massa provocato dal **Lich**, il cui nome si è perso nel tempo.
 Il **Lich** infatti portò la vita presente nel **Vecchio Mondo** sull'orlo dell'estinzione, finchè non venne fermato da **Redemptus**, colui che in seguito venne riconosciuto come il [**Primo Re**](./README.md#il-primo-re).
 
 I motivi dietro la pazzia distruttiva del **Lich** sono tuttora sconosciuti e motivi di studio, così come i poteri necromantici che possedeva, sebbene sia illegale studiare tale magia nella maggior parte delle nazioni di **Redentia**.
